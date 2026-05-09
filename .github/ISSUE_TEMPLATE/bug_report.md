@@ -1,6 +1,6 @@
 name: Bug Report
 about: soo ob error
-title: "[BUG]"
+title: "[Bug]"
 labels: bug
 assignees: ''
 
